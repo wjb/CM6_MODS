@@ -10,3 +10,4 @@ alias symbol:xfrm6_tunnel_free_spi xfrm6_tunnel
 alias symbol:ipcomp_destroy xfrm_ipcomp
 alias symbol:ipcomp_input xfrm_ipcomp
 alias symbol:ipcomp_output xfrm_ipcomp
+alias symbol:crc32c libcrc32c

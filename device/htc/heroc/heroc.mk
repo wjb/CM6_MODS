@@ -96,7 +96,7 @@ PRODUCT_COPY_FILES += \
 #   device/htc/heroc/modules/xfrm6_tunnel.ko:system/lib/modules/2.6.29.6-cyanogenmod/xfrm6_tunnel.ko \
 #   device/htc/heroc/modules/xfrm_ipcomp.ko:system/lib/modules/2.6.29.6-cyanogenmod/xfrm_ipcomp.ko \
 #   device/htc/heroc/modules/xt_TCPMSS.ko:system/lib/modules/2.6.29.6-cyanogenmod/xt_TCPMSS.ko \
-#   device/htc/heroc/modules/xt_hashlimit.ko:system/lib/modules/2.6.29.6-cyanogenmod/xt_hashlimit.ko
+#   device/htc/heroc/modules/xt_hashlimit.ko:system/lib/modules/2.6.29.6-cyanogenmod/xt_hashlimit.ko 
 
 ifeq ($(TARGET_PREBUILT_KERNEL),)
 LOCAL_KERNEL := device/htc/heroc/kernel
